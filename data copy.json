@@ -1,0 +1,5 @@
+[{ "brand": "Samsung", "model": "A1", "cost": "15299" },
+    { "brand": "Xiaomi", "model": "Note 8 pro", "cost": "11350" },
+    { "brand": "Apple", "model": "iphone 10x", "cost": "78999" },
+    { "brand": "Nokia", "model": "3310", "cost": "18750" }
+]
